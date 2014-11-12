@@ -16,3 +16,14 @@ SimpleSpeechDecoder.exe data\lexicon.text data\models.text data\states.text data
 k2.txt data\ar_oa.mfc
 
 You can also build a C# project using the .cs files provided and compile them. And then run the executable as mentioned above.
+
+Acknowledgements:
+=================
+
+Special thanks for members of ISIP for the prototype system and the packaged TIDIGITS tutorial. Saved me a lot of time. 
+
+Feedback:
+=========
+
+Kindly direct your questions, suggestions and comments to my email: hrsmanian@gmail.com
+
