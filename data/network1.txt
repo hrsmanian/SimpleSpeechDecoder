@@ -1,0 +1,14 @@
+N=7    L=10
+I=0    W=!SENT_START
+I=1    W=!SENT_END         
+I=2    W=!NULL               
+I=3    W=!NULL
+I=4    W=ONE               
+I=5    W=TWO
+J=0     S=0    E=2
+J=1     S=2    E=4    
+J=2     S=2    E=5    
+J=3     S=4    E=3    
+J=4     S=5    E=3    
+J=5     S=3    E=2
+J=6     S=3    E=1
